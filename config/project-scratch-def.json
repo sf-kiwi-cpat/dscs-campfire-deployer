@@ -1,5 +1,11 @@
 {
   "orgName": "NTO",
   "description": "Northen Trail Outfitters",
-  "template": "0TT6g00000AoJTd"
+   "edition": "Enterprise",
+   "features": ["LiveMessage"],
+   "settings": {
+    "LiveMessageSettings": {
+      "enableLiveMessage": true
+    }
+  }
 }
